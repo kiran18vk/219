@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Flersproget Applikation",
+    "subtitle": "Understøtter 21 sprog verden over"
+  },
+  "nav": {
+    "home": "Hjem",
+    "about": "Om",
+    "contact": "Kontakt",
+    "features": "Funktioner"
+  },
+  "welcome": {
+    "message": "Velkommen til vores applikation",
+    "description": "Denne applikation understøtter 21 forskellige sprog, hvilket gør den tilgængelig for brugere verden over. Vælg dit foretrukne sprog fra menuen ovenfor."
+  },
+  "button": {
+    "getStarted": "Kom I Gang",
+    "learnMore": "Læs Mere",
+    "changeLanguage": "Skift Sprog"
+  },
+  "features": {
+    "title": "Funktioner",
+    "multilingual": "21 Sprog",
+    "multilingualDesc": "Fuld understøttelse af 21 store verdenssprog",
+    "realtime": "Realtidsskift",
+    "realtimeDesc": "Skift øjeblikkeligt mellem sprog",
+    "accessible": "Tilgængelig",
+    "accessibleDesc": "Bygget med tilgængelighed i tankerne"
+  },
+  "footer": {
+    "copyright": "© 2025 Flersproget App. Alle rettigheder forbeholdes."
+  },
+  "language": {
+    "select": "Vælg Sprog",
+    "current": "Nuværende Sprog"
+  }
+}

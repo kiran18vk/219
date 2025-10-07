@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Aplicación Multilingüe",
+    "subtitle": "Compatible con 21 idiomas en todo el mundo"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "features": "Características"
+  },
+  "welcome": {
+    "message": "Bienvenido a nuestra aplicación",
+    "description": "Esta aplicación admite 21 idiomas diferentes, haciéndola accesible para usuarios de todo el mundo. Seleccione su idioma preferido en el menú superior."
+  },
+  "button": {
+    "getStarted": "Comenzar",
+    "learnMore": "Saber Más",
+    "changeLanguage": "Cambiar Idioma"
+  },
+  "features": {
+    "title": "Características",
+    "multilingual": "21 Idiomas",
+    "multilingualDesc": "Soporte completo para 21 idiomas principales del mundo",
+    "realtime": "Cambio en Tiempo Real",
+    "realtimeDesc": "Cambie entre idiomas instantáneamente",
+    "accessible": "Accesible",
+    "accessibleDesc": "Construido pensando en la accesibilidad"
+  },
+  "footer": {
+    "copyright": "© 2025 Aplicación Multilingüe. Todos los derechos reservados."
+  },
+  "language": {
+    "select": "Seleccionar Idioma",
+    "current": "Idioma Actual"
+  }
+}

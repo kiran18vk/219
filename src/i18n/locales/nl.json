@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Meertalige Applicatie",
+    "subtitle": "Ondersteuning voor 21 talen wereldwijd"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Over",
+    "contact": "Contact",
+    "features": "Functies"
+  },
+  "welcome": {
+    "message": "Welkom bij onze applicatie",
+    "description": "Deze applicatie ondersteunt 21 verschillende talen, waardoor het toegankelijk is voor gebruikers wereldwijd. Selecteer uw voorkeurstaal in het menu hierboven."
+  },
+  "button": {
+    "getStarted": "Aan de Slag",
+    "learnMore": "Meer Weten",
+    "changeLanguage": "Taal Wijzigen"
+  },
+  "features": {
+    "title": "Functies",
+    "multilingual": "21 Talen",
+    "multilingualDesc": "Volledige ondersteuning voor 21 belangrijke wereldtalen",
+    "realtime": "Realtime Schakelen",
+    "realtimeDesc": "Schakel direct tussen talen",
+    "accessible": "Toegankelijk",
+    "accessibleDesc": "Gebouwd met toegankelijkheid in gedachten"
+  },
+  "footer": {
+    "copyright": "© 2025 Meertalige App. Alle rechten voorbehouden."
+  },
+  "language": {
+    "select": "Selecteer Taal",
+    "current": "Huidige Taal"
+  }
+}

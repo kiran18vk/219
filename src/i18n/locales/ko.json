@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "다국어 애플리케이션",
+    "subtitle": "전 세계 21개 언어 지원"
+  },
+  "nav": {
+    "home": "홈",
+    "about": "소개",
+    "contact": "연락처",
+    "features": "기능"
+  },
+  "welcome": {
+    "message": "애플리케이션에 오신 것을 환영합니다",
+    "description": "이 애플리케이션은 21개의 다른 언어를 지원하여 전 세계 사용자가 액세스할 수 있습니다. 위 메뉴에서 선호하는 언어를 선택하세요."
+  },
+  "button": {
+    "getStarted": "시작하기",
+    "learnMore": "자세히 알아보기",
+    "changeLanguage": "언어 변경"
+  },
+  "features": {
+    "title": "기능",
+    "multilingual": "21개 언어",
+    "multilingualDesc": "세계 주요 21개 언어 완벽 지원",
+    "realtime": "실시간 전환",
+    "realtimeDesc": "언어 간 즉시 전환",
+    "accessible": "접근 가능",
+    "accessibleDesc": "접근성을 고려하여 구축"
+  },
+  "footer": {
+    "copyright": "© 2025 다국어 앱. 모든 권리 보유."
+  },
+  "language": {
+    "select": "언어 선택",
+    "current": "현재 언어"
+  }
+}

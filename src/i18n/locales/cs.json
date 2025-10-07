@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Vícejazyčná Aplikace",
+    "subtitle": "Podpora 21 jazyků po celém světě"
+  },
+  "nav": {
+    "home": "Domů",
+    "about": "O Nás",
+    "contact": "Kontakt",
+    "features": "Funkce"
+  },
+  "welcome": {
+    "message": "Vítejte v naší aplikaci",
+    "description": "Tato aplikace podporuje 21 různých jazyků, čímž je přístupná uživatelům po celém světě. Vyberte preferovaný jazyk z nabídky výše."
+  },
+  "button": {
+    "getStarted": "Začít",
+    "learnMore": "Zjistit Více",
+    "changeLanguage": "Změnit Jazyk"
+  },
+  "features": {
+    "title": "Funkce",
+    "multilingual": "21 Jazyků",
+    "multilingualDesc": "Plná podpora 21 hlavních světových jazyků",
+    "realtime": "Přepínání v Reálném Čase",
+    "realtimeDesc": "Okamžité přepínání mezi jazyky",
+    "accessible": "Přístupný",
+    "accessibleDesc": "Vytvořeno s ohledem na přístupnost"
+  },
+  "footer": {
+    "copyright": "© 2025 Vícejazyčná Aplikace. Všechna práva vyhrazena."
+  },
+  "language": {
+    "select": "Vybrat Jazyk",
+    "current": "Aktuální Jazyk"
+  }
+}

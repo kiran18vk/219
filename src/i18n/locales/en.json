@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Multi-Language Application",
+    "subtitle": "Supporting 21 languages worldwide"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "features": "Features"
+  },
+  "welcome": {
+    "message": "Welcome to our application",
+    "description": "This application supports 21 different languages, making it accessible to users worldwide. Select your preferred language from the menu above."
+  },
+  "button": {
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "changeLanguage": "Change Language"
+  },
+  "features": {
+    "title": "Features",
+    "multilingual": "21 Languages",
+    "multilingualDesc": "Full support for 21 major world languages",
+    "realtime": "Real-time Switching",
+    "realtimeDesc": "Instantly switch between languages",
+    "accessible": "Accessible",
+    "accessibleDesc": "Built with accessibility in mind"
+  },
+  "footer": {
+    "copyright": "© 2025 Multi-Language App. All rights reserved."
+  },
+  "language": {
+    "select": "Select Language",
+    "current": "Current Language"
+  }
+}

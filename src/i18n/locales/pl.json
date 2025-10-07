@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Aplikacja Wielojęzyczna",
+    "subtitle": "Obsługa 21 języków na całym świecie"
+  },
+  "nav": {
+    "home": "Strona Główna",
+    "about": "O Nas",
+    "contact": "Kontakt",
+    "features": "Funkcje"
+  },
+  "welcome": {
+    "message": "Witamy w naszej aplikacji",
+    "description": "Ta aplikacja obsługuje 21 różnych języków, dzięki czemu jest dostępna dla użytkowników na całym świecie. Wybierz preferowany język z menu powyżej."
+  },
+  "button": {
+    "getStarted": "Rozpocznij",
+    "learnMore": "Dowiedz Się Więcej",
+    "changeLanguage": "Zmień Język"
+  },
+  "features": {
+    "title": "Funkcje",
+    "multilingual": "21 Języków",
+    "multilingualDesc": "Pełne wsparcie dla 21 głównych języków świata",
+    "realtime": "Przełączanie w Czasie Rzeczywistym",
+    "realtimeDesc": "Natychmiastowe przełączanie między językami",
+    "accessible": "Dostępny",
+    "accessibleDesc": "Zbudowany z myślą o dostępności"
+  },
+  "footer": {
+    "copyright": "© 2025 Aplikacja Wielojęzyczna. Wszelkie prawa zastrzeżone."
+  },
+  "language": {
+    "select": "Wybierz Język",
+    "current": "Aktualny Język"
+  }
+}

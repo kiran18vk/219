@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Flerspråklig Applikasjon",
+    "subtitle": "Støtter 21 språk verden over"
+  },
+  "nav": {
+    "home": "Hjem",
+    "about": "Om",
+    "contact": "Kontakt",
+    "features": "Funksjoner"
+  },
+  "welcome": {
+    "message": "Velkommen til vår applikasjon",
+    "description": "Denne applikasjonen støtter 21 forskjellige språk, noe som gjør den tilgjengelig for brukere verden over. Velg ønsket språk fra menyen ovenfor."
+  },
+  "button": {
+    "getStarted": "Kom I Gang",
+    "learnMore": "Lær Mer",
+    "changeLanguage": "Bytt Språk"
+  },
+  "features": {
+    "title": "Funksjoner",
+    "multilingual": "21 Språk",
+    "multilingualDesc": "Full støtte for 21 store verdensspråk",
+    "realtime": "Sanntidsbytte",
+    "realtimeDesc": "Bytt øyeblikkelig mellom språk",
+    "accessible": "Tilgjengelig",
+    "accessibleDesc": "Bygget med tilgjengelighet i tankene"
+  },
+  "footer": {
+    "copyright": "© 2025 Flerspråklig App. Alle rettigheter reservert."
+  },
+  "language": {
+    "select": "Velg Språk",
+    "current": "Nåværende Språk"
+  }
+}

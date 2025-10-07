@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "多言語アプリケーション",
+    "subtitle": "世界中の21の言語をサポート"
+  },
+  "nav": {
+    "home": "ホーム",
+    "about": "について",
+    "contact": "お問い合わせ",
+    "features": "機能"
+  },
+  "welcome": {
+    "message": "アプリケーションへようこそ",
+    "description": "このアプリケーションは21の異なる言語をサポートしており、世界中のユーザーがアクセスできます。上のメニューから希望の言語を選択してください。"
+  },
+  "button": {
+    "getStarted": "始める",
+    "learnMore": "詳細を見る",
+    "changeLanguage": "言語を変更"
+  },
+  "features": {
+    "title": "機能",
+    "multilingual": "21言語",
+    "multilingualDesc": "世界の主要な21言語を完全サポート",
+    "realtime": "リアルタイム切り替え",
+    "realtimeDesc": "言語間を即座に切り替え",
+    "accessible": "アクセシブル",
+    "accessibleDesc": "アクセシビリティを考慮して構築"
+  },
+  "footer": {
+    "copyright": "© 2025 多言語アプリ。全著作権所有。"
+  },
+  "language": {
+    "select": "言語を選択",
+    "current": "現在の言語"
+  }
+}

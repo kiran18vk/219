@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Çok Dilli Uygulama",
+    "subtitle": "Dünya çapında 21 dil desteği"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkında",
+    "contact": "İletişim",
+    "features": "Özellikler"
+  },
+  "welcome": {
+    "message": "Uygulamamıza hoş geldiniz",
+    "description": "Bu uygulama 21 farklı dili destekleyerek dünya çapındaki kullanıcılar için erişilebilir hale getiriyor. Yukarıdaki menüden tercih ettiğiniz dili seçin."
+  },
+  "button": {
+    "getStarted": "Başla",
+    "learnMore": "Daha Fazla Bilgi",
+    "changeLanguage": "Dil Değiştir"
+  },
+  "features": {
+    "title": "Özellikler",
+    "multilingual": "21 Dil",
+    "multilingualDesc": "21 ana dünya dili için tam destek",
+    "realtime": "Gerçek Zamanlı Geçiş",
+    "realtimeDesc": "Diller arasında anında geçiş yapın",
+    "accessible": "Erişilebilir",
+    "accessibleDesc": "Erişilebilirlik göz önünde bulundurularak oluşturuldu"
+  },
+  "footer": {
+    "copyright": "© 2025 Çok Dilli Uygulama. Tüm hakları saklıdır."
+  },
+  "language": {
+    "select": "Dil Seç",
+    "current": "Mevcut Dil"
+  }
+}

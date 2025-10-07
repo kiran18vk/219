@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Application Multilingue",
+    "subtitle": "Prenant en charge 21 langues dans le monde"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact",
+    "features": "Fonctionnalités"
+  },
+  "welcome": {
+    "message": "Bienvenue dans notre application",
+    "description": "Cette application prend en charge 21 langues différentes, la rendant accessible aux utilisateurs du monde entier. Sélectionnez votre langue préférée dans le menu ci-dessus."
+  },
+  "button": {
+    "getStarted": "Commencer",
+    "learnMore": "En Savoir Plus",
+    "changeLanguage": "Changer de Langue"
+  },
+  "features": {
+    "title": "Fonctionnalités",
+    "multilingual": "21 Langues",
+    "multilingualDesc": "Support complet pour 21 langues majeures du monde",
+    "realtime": "Changement en Temps Réel",
+    "realtimeDesc": "Changez instantanément entre les langues",
+    "accessible": "Accessible",
+    "accessibleDesc": "Conçu avec l'accessibilité à l'esprit"
+  },
+  "footer": {
+    "copyright": "© 2025 Application Multilingue. Tous droits réservés."
+  },
+  "language": {
+    "select": "Sélectionner la Langue",
+    "current": "Langue Actuelle"
+  }
+}

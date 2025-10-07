@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Mehrsprachige Anwendung",
+    "subtitle": "Unterstützt 21 Sprachen weltweit"
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "features": "Funktionen"
+  },
+  "welcome": {
+    "message": "Willkommen in unserer Anwendung",
+    "description": "Diese Anwendung unterstützt 21 verschiedene Sprachen und macht sie für Benutzer weltweit zugänglich. Wählen Sie Ihre bevorzugte Sprache aus dem obigen Menü."
+  },
+  "button": {
+    "getStarted": "Loslegen",
+    "learnMore": "Mehr Erfahren",
+    "changeLanguage": "Sprache Ändern"
+  },
+  "features": {
+    "title": "Funktionen",
+    "multilingual": "21 Sprachen",
+    "multilingualDesc": "Volle Unterstützung für 21 wichtige Weltsprachen",
+    "realtime": "Echtzeit-Umschaltung",
+    "realtimeDesc": "Wechseln Sie sofort zwischen Sprachen",
+    "accessible": "Barrierefrei",
+    "accessibleDesc": "Mit Blick auf Barrierefreiheit entwickelt"
+  },
+  "footer": {
+    "copyright": "© 2025 Mehrsprachige App. Alle Rechte vorbehalten."
+  },
+  "language": {
+    "select": "Sprache Auswählen",
+    "current": "Aktuelle Sprache"
+  }
+}

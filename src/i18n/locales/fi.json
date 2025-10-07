@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Monikielinen Sovellus",
+    "subtitle": "Tukee 21 kieltä maailmanlaajuisesti"
+  },
+  "nav": {
+    "home": "Etusivu",
+    "about": "Tietoa",
+    "contact": "Yhteystiedot",
+    "features": "Ominaisuudet"
+  },
+  "welcome": {
+    "message": "Tervetuloa sovellukseemme",
+    "description": "Tämä sovellus tukee 21 eri kieltä, mikä tekee siitä käytettävän käyttäjille maailmanlaajuisesti. Valitse haluamasi kieli yllä olevasta valikosta."
+  },
+  "button": {
+    "getStarted": "Aloita",
+    "learnMore": "Lue Lisää",
+    "changeLanguage": "Vaihda Kieli"
+  },
+  "features": {
+    "title": "Ominaisuudet",
+    "multilingual": "21 Kieltä",
+    "multilingualDesc": "Täysi tuki 21 tärkeimmälle maailman kielelle",
+    "realtime": "Reaaliaikainen Vaihto",
+    "realtimeDesc": "Vaihda välittömästi kielten välillä",
+    "accessible": "Saavutettava",
+    "accessibleDesc": "Rakennettu saavutettavuus mielessä"
+  },
+  "footer": {
+    "copyright": "© 2025 Monikielinen Sovellus. Kaikki oikeudet pidätetään."
+  },
+  "language": {
+    "select": "Valitse Kieli",
+    "current": "Nykyinen Kieli"
+  }
+}

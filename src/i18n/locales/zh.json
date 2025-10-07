@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "多语言应用程序",
+    "subtitle": "支持全球21种语言"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于",
+    "contact": "联系",
+    "features": "特点"
+  },
+  "welcome": {
+    "message": "欢迎使用我们的应用程序",
+    "description": "此应用程序支持21种不同的语言，使全球用户都能访问。从上面的菜单中选择您的首选语言。"
+  },
+  "button": {
+    "getStarted": "开始使用",
+    "learnMore": "了解更多",
+    "changeLanguage": "更改语言"
+  },
+  "features": {
+    "title": "特点",
+    "multilingual": "21种语言",
+    "multilingualDesc": "全面支持21种主要世界语言",
+    "realtime": "实时切换",
+    "realtimeDesc": "立即在语言之间切换",
+    "accessible": "易访问",
+    "accessibleDesc": "以可访问性为设计理念"
+  },
+  "footer": {
+    "copyright": "© 2025 多语言应用。保留所有权利。"
+  },
+  "language": {
+    "select": "选择语言",
+    "current": "当前语言"
+  }
+}
